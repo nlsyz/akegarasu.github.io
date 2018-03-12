@@ -12,5 +12,3 @@ author: Akiba
 ## 牛栏山一中高一四班 12日活动记录
 adsfgasdjkfhaskdhfas  
 tjhqerkljtklasd
-
-![](https://img.alicdn.com/tfs/TB1LBzjOpXXXXcnXpXXXXXXXXXX-154-71.png)
