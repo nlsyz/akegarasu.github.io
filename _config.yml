@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Akiba
-brief-intro: Coding 萌新
+title: 高一四班日志
+brief-intro: 与美为伴 向美而行
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://akegarasu.github.io" # the base hostname & protocol for your site
+url: "https://nlsyz.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username: 曉烏秋葉
 linkedIn_username: #gaohaoyang
 dribbble_username:
 
-description_footer: 萌新QWQ
+description_footer: 与美为伴 向美而行
 
 # comments
 # two ways to comment, only choose one, and use your own short name
